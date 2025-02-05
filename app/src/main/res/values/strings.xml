@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="title_string">What are you grateful for today?</string>
+    <string name="btn_text">Get Started</string>
+    <string name="login_btn">Let\'s Begin</string>
+    <string name="signup_btn">I am an Existing User</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="login_text">Login</string>
+    <string name="username_hind">Enter Username</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="title_discription">Name Your Day</string>
+    <string name="title_text_hint">Enter the Title of your Day</string>
+    <string name="notes_discription">Add a Note or Ideas</string>
+    <string name="continue_btn_adding_journal">Create</string>
+    <string name="notes_text_hint">Enter Text...\n</string>
+    <string name="menu_title">New Post</string>
+    <string name="signout">SignOut</string>
+    <string name="tagline_app">Quick Journaling, Your Way</string>
+    <string name="update">Update</string>
+    <string name="foreget_password">Forgot Password?</string>
+
+</resources>
